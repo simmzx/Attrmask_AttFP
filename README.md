@@ -1,0 +1,1 @@
+This is a model using [AttentiveFP](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b00959) backbone and based on [MolCLR](https://www.nature.com/articles/s42256-022-00447-x) (a molecular contrastive learning representation pre-training), which I used for baseline contrast and ablation experiments.
